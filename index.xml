@@ -33,15 +33,6 @@
     </item>
     
     <item>
-      <title>Cross-domain adaptation for image classification</title>
-      <link>/project/example/</link>
-      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/project/example/</guid>
-      <description>&lt;p&gt;#Slides&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -115,6 +106,20 @@
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning 3D skin and skeleton models from CT scans for rats</title>
+      <link>/project/example-2/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/example-2/</guid>
+      <description>&lt;p&gt;Computer Tomography scans can be a great resource to not only learn the surface model but to
+learn the shape and location of internal organs and bones. In this work, we will try to learn a
+model for the skin and for a skeleton from rat CT scans. We will also try to achieve a kinematic
+correspondence between the two models. This problem is challenging because we are trying to
+learn shape space from limited data, around 10 CT scans and we start from a preliminary skin
+model which is trained on 2 CT scans and 3 toy scans and a template mesh of the skeleton.&lt;/p&gt;
 </description>
     </item>
     
@@ -244,6 +249,16 @@ Three
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparison of methods to produce a two-layered LDI representation from a single RGB image</title>
+      <link>/project/example/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/project/example/</guid>
+      <description>&lt;p&gt;One of the major drawbacks of the visualizations used in computer vision is the lack of information about the portion of scene that has been occluded by the foreground objects. Depth maps store the results of a mapping from each pixel to its distance from the camera. Since the pair of RGB image and the depth map store more information than a RGB image itself,they are considered 2.5D. However, a simple depth map fails to alleviate the problem as it stores the values for only
+the visible part of an image. Unlike human beings who are able to perceive the information even if it has been hidden by confidently extrapolating from what is visible, computer vision models are stymied at only what is immediately visible. This has been resolved with other forms of representations of 2D images, one of which is LDI. However getting better LDI predictions from a single RGB image is challenging and we compare two methods in this work on synthetic data.&lt;/p&gt;
 </description>
     </item>
     

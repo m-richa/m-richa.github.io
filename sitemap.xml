@@ -11,18 +11,6 @@
     <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/example/</loc>
-    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -35,6 +23,9 @@
     <loc>/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,11 +35,23 @@
     <loc>/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/project/example-2/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/theses/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/example/</loc>
+    <lastmod>2018-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
