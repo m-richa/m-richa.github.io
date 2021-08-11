@@ -2,8 +2,8 @@
   "name": "Richa Mishra",
   "short_name": "Richa Mishra",
   "lang": "en-us",
-  "theme_color": "hsl(339, 90%, 68%)",
-  "background_color": "hsl(339, 90%, 68%)",
+  "theme_color": "#4caf50",
+  "background_color": "#4caf50",
   "icons": [{
     "src": "/media/icon_hu7786b68f50e5cd2fd75751deb6df9e9e_26249_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
